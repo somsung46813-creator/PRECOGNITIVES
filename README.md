@@ -236,6 +236,8 @@ PERSPECTIVE
 FOCAL HIERARCHY
 ```
 
+---
+
 ### Grid Modes
 
 The agent may dynamically switch between:
