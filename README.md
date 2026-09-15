@@ -484,42 +484,6 @@ ABSTRACTION
 Produce one unified, visually compelling final composition.
 ```
 
----
-
-# Example Invocation
-
-```text
-Using ABSTRACT THINK TANK AGENTS
-
-Modal Grid Agent
-<<
-Mesh Generator Agent
-<<
-AI Agent Gatherer
-
-create a pyramidal cubic Arkenstone.
-
-Interpret the Arkenstone as a mysterious crystalline artifact.
-Construct it from nested cubic and pyramidal geometry, crystalline
-facets, internal lattice structures, recursive subdivisions, and
-controlled geometric distortions.
-
-Use the Modal Grid Agent to establish a monumental central
-composition with strong three-dimensional depth.
-
-Combine crystalline surfaces, cubic architecture, luminous internal
-structure, geometric symmetry, subtle asymmetry, and an otherworldly
-atmosphere.
-
-The result should feel ancient, mathematical, mysterious, powerful,
-and computationally generated.
-
-Preserve the recognizable idea of a legendary gemstone while
-transforming it into an abstract geometric artifact.
-```
-
----
-
 # Design Philosophy
 
 The central principle of the system is:
