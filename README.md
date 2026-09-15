@@ -486,6 +486,8 @@ ABSTRACTION
 Produce one unified, visually compelling final composition.
 ```
 
+---
+
 # Design Philosophy
 
 The central principle of the system is:
